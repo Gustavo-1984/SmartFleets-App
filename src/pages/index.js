@@ -1,0 +1,5 @@
+export * from './Inicio/Inicio'
+export * from './Transacciones/Ventas'
+export * from './Vehiculos/Vehiculos'
+export * from './Vehiculos/AgregarVehiculos'
+export * from './Vehiculos/EditarVehiculos'

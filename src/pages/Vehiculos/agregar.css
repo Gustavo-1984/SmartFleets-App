@@ -1,0 +1,12 @@
+.neum{
+    border-radius: 8px;
+    background: #fcfcfc;
+    box-shadow:  -5px -5px 15px #efefef,
+                 5px 5px 15px #ffffff;
+}
+
+.neumBlack{
+    background: #1a1a1a;
+    border-radius: 0px 0px 5px 5px;
+    
+}
